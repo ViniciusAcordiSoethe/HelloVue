@@ -5,7 +5,7 @@ import Footer from '@/components/footer.vue';
 <template>
     <TopMenu />
     <h1>Home</h1>
-    <p>Home page content</p>
+    <p>Aqui ficara o estudo de Vue para mais leigos</p>
     <Footer />
 </template>
 <style scoped>
