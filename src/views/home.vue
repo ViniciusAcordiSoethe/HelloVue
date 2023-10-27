@@ -8,6 +8,7 @@ const ssss = import.meta.env.VITE_TESTENV;
     <TopMenu />
     <h1>Home</h1>
     <p>Aqui ficara o estudo de Vue Completo {{ ssss }}</p>
+    <p>Oi arthur</p>
     <Footer />
 </template>
 <style scoped>
